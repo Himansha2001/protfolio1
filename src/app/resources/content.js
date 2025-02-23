@@ -55,7 +55,7 @@ const home = {
   headline: <>Software Engineer & Digital Entrepreneur</>,
   subline: (
     <>
-      I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
+      I'm Himansha, Software Engineer <InlineCode>FLY</InlineCode>, where I craft intuitive
       <br /> user experiences. After hours, I build my own projects.
     </>
   ),
